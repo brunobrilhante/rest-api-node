@@ -9,13 +9,13 @@ Content-Type: application/json
     "userChannel": "HcodeBrasil"
 }
 ###
-GET http://localhost:3000/subscribers/667c25181c2f3849b2b45538
+GET http://localhost:3000/subscribers/667c25391c2f3849b2b4553b
 ###
-DELETE http://localhost:3000/subscribers/667c2b6f22265850123b8c66
+DELETE http://localhost:3000/subscribers/66846b1194730ca0d38558e4
 ###
 PATCH http://localhost:3000/subscribers/667c25391c2f3849b2b4553b
 Content-Type: application/json
 
 {
-    "userName": "Arianny Brilhante"
+    "userName": "Arianny Cotoca Brilhante"
 }
